@@ -1,4 +1,5 @@
 git remote add origin https://github.com/wangphp2010/ES6-tuto.git
+
 git push -u origin master
 
 ## 函数 用法  
