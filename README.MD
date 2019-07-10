@@ -190,7 +190,9 @@ class lexus extends Car{
  ```
 
 
- // 可迭代对象
+## 可迭代对象
+
+```js
 // 指可以循环的对象
 
 
@@ -218,6 +220,7 @@ for(let tmp of player){
     console.log(tmp);
 }
 
+```
 
 ## 简单迭代类
 ```js
